@@ -12,6 +12,20 @@
 
 ## 繁體中文
 
+### 📸 Demo 截圖
+
+<div align="center">
+
+![LINE Bot Demo](screenshots/demo-conversation.png)
+*LINE 對話介面 - 輸入需求並收到推薦*
+
+![Flex Message Cards](screenshots/flex-message-cards.png)
+*推薦卡片 - 可左右滑動查看 Top 3*
+
+</div>
+
+---
+
 ### 🎯 這不是一個產品介紹，這是一個技術 Showcase
 
 **核心亮點：**
@@ -100,7 +114,7 @@ graph TB
 
 1. **Clone 專案**
 ```bash
-git clone https://github.com/yourusername/openclaw-delivery-agent.git
+git clone https://github.com/zychenpeng/openclaw-delivery-agent.git
 cd openclaw-delivery-agent
 ```
 
@@ -312,6 +326,20 @@ MIT License - 詳見 [LICENSE](LICENSE) 文件
 
 ## English
 
+### 📸 Demo Screenshots
+
+<div align="center">
+
+![LINE Bot Demo](screenshots/demo-conversation.png)
+*LINE Conversation Interface - Input requirements and receive recommendations*
+
+![Flex Message Cards](screenshots/flex-message-cards.png)
+*Recommendation Cards - Swipe to view Top 3*
+
+</div>
+
+---
+
 ### 🎯 This is NOT a Product Demo, It's a Technical Showcase
 
 **Highlights:**
@@ -369,7 +397,7 @@ MIT License - 詳見 [LICENSE](LICENSE) 文件
 
 1. **Clone the project**
 ```bash
-git clone https://github.com/yourusername/openclaw-delivery-agent.git
+git clone https://github.com/zychenpeng/openclaw-delivery-agent.git
 cd openclaw-delivery-agent
 ```
 
