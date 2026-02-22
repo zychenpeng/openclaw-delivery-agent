@@ -1,0 +1,16 @@
+# Web Framework
+fastapi==0.129.2
+uvicorn==0.41.0
+
+# LINE Bot
+line-bot-sdk==3.22.0
+
+# Browser Automation
+playwright==1.49.1
+
+# Utilities
+python-dotenv==1.2.1
+pyngrok==7.5.0
+
+# Note: After installing, run:
+# playwright install chromium
