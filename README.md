@@ -16,10 +16,13 @@
 
 <div align="center">
 
-![LINE Bot Demo](screenshots/demo-conversation.png)
+![Bot Profile](screenshots/bot-profile.webp)
+*LINE Bot 官方帳號首頁*
+
+![LINE Bot Demo](screenshots/demo-conversation.webp)
 *LINE 對話介面 - 輸入需求並收到推薦*
 
-![Flex Message Cards](screenshots/flex-message-cards.png)
+![Flex Message Cards](screenshots/flex-message-cards.webp)
 *推薦卡片 - 可左右滑動查看 Top 3*
 
 </div>
@@ -330,10 +333,13 @@ MIT License - 詳見 [LICENSE](LICENSE) 文件
 
 <div align="center">
 
-![LINE Bot Demo](screenshots/demo-conversation.png)
+![Bot Profile](screenshots/bot-profile.webp)
+*LINE Bot Official Account*
+
+![LINE Bot Demo](screenshots/demo-conversation.webp)
 *LINE Conversation Interface - Input requirements and receive recommendations*
 
-![Flex Message Cards](screenshots/flex-message-cards.png)
+![Flex Message Cards](screenshots/flex-message-cards.webp)
 *Recommendation Cards - Swipe to view Top 3*
 
 </div>
